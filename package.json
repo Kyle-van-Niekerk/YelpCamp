@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "test": " Kyle van Niekerk",
-    "start": "app.js",
+    "start": "node app.js"
   },
   "author": "Kyle van Niekerk",
   "license": "ISC",
