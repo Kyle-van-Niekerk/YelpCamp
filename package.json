@@ -4,7 +4,8 @@
   "description": "YelpCamp v1",
   "main": "app.js",
   "scripts": {
-    "test": " Kyle van Niekerk"
+    "test": " Kyle van Niekerk",
+    "start": "app.js",
   },
   "author": "Kyle van Niekerk",
   "license": "ISC",
